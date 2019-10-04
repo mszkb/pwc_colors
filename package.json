@@ -1,0 +1,18 @@
+{
+  "name": "@tt/colors",
+  "version": "1.0.0",
+  "description": "Sass color library for web projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "keywords": [
+    "sass",
+    "colors"
+  ],
+  "author": "szmr",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
