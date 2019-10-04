@@ -1,6 +1,6 @@
 {
   "name": "@tx_ty/tt_colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sass color library for web projects",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
